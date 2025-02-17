@@ -1,7 +1,8 @@
-#Currency Converter Web App (ReactJS & API) - Summary
+# Currency Converter Web App (ReactJS & API) - Summary
+
 The Currency Converter Web App is a user-friendly application built with ReactJS that allows users to convert currencies in real-time using an external API. The app fetches the latest exchange rates from a reliable currency exchange API and dynamically calculates conversions based on user input.
 
-Key Features:
+# Key Features:
 ✅ Real-time Exchange Rates – Fetches updated rates using an API (e.g., ExchangeRate API, OpenExchangeRates, or Forex API).
 
 ✅ User-Friendly Interface – Simple input fields to enter the amount, select currencies, and view results instantly.
@@ -12,7 +13,7 @@ Key Features:
 
 ✅ Responsive Design – Works seamlessly on desktop and mobile devices.
 
-#Tech Stack:
+# Tech Stack:
 
 -Frontend: ReactJS (useState, useEffect, Fetch/Axios for API calls)
 
